@@ -1,0 +1,5 @@
+This plugin includes colored diffs in wiki change notification emails (so you don't have to click the diff link to see what's new).
+
+Written by Boris Pilgun for http://www.gigantt.com and the rest of humanity.
+
+Tested with Redmine 1.4.2.
