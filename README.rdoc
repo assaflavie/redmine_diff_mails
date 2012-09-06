@@ -1,0 +1,3 @@
+= wiki_diff_in_emails
+
+This plugin adds "diff" functionalities to emails when wiki updated
