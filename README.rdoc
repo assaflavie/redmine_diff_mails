@@ -1,3 +1,9 @@
 = wiki_diff_in_emails
 
-This plugin adds "diff" functionalities to emails when wiki updated
+This plugin includes colored diffs in wiki change notification emails (so you don't have to click the diff link to see what's new).
+
+Written by Boris Pilgun for http://www.gigantt.com and the rest of humanity.
+
+To install just place this repository (redmine_diff_mails) inside the vendor/plugins folder in your Redmine installation and restart the web server.
+
+Tested with Redmine 1.4.2.
